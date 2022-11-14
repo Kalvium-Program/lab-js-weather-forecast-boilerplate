@@ -1,63 +1,40 @@
-.grid-container {
-        
-    display: grid;
-    grid-template-columns: 50% 50%;
-    background-color: white;
-    padding: 5px;
-    height: 100%;
-  }
-  .grid-item1{
-  
-      background-color: royalblue;
-      display: grid;
-  }
-  .grid-item{
-  
-  background-color: lightgrey;
-  display: grid;
-  }
-  h1, h3{
-      color: white;
-      font-weight: bolder;
-      margin-top: 25%;
-  }
-  span{
-      color: black;
-      font-weight: bolder;
-  }
-  p{
-      color: white;
-      
-  }
-  li{
-      color: white;
-      
-  }
-  .bdy{
-      margin-left: 20%;
-  }
-  .dd{
-      margin-left: 25%;
-      margin-top: 10%;
-  }
-  #pp{
-      color: black;
-  }
-  #show{
-      color: black;
-      font-size: xx-large;
-  }
-  #show1,#show3{
-      color: black;
-      font-size: medium;
-  }
-  #show2{
-      color: black;
-      font-size: xx-large;
-  }
-  #tt{
-      margin-left: 20%;
-      margin-top: 20%;
-  }
-     
-    
+*{
+    background-color: rgb(102, 30, 120);
+    text-align: center;
+}
+
+.searchbox{
+    background-color: rgb(191, 154, 195);
+    margin-bottom: 20px;
+}
+
+.city{
+    font-size: 25px;
+    color: white;
+    font-weight: normal;
+}
+
+.date{
+    color: white;
+    font-weight: lighter;
+}
+
+.temp{
+    color: white;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.weather{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.hi-low{
+    color: white;
+    margin-top: 10px;
+
+}
