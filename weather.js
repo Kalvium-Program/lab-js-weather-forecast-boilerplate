@@ -8,7 +8,7 @@ function getData(){
   const getLocation = document.getElementById("location");
   const getCurrent = document.getElementById("current");
 
-  fetch("http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=5b9441056bba2ffb0d1da1631c7fc001")
+  fetch("https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=5b9441056bba2ffb0d1da1631c7fc001")
   .then(response=>response.json())
   .then(data=>{
 
