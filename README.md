@@ -2,7 +2,7 @@
 
 # Kalvium Project-Builder | JS | WEATHER FORECAST
 
-We have learned all the important concepts in JavaScript. Now lets work with our project builder in building a smartwatch, applying all of the concepts we have just learned.
+We have learned all the important concepts in JavaScript. Now lets work with our project builder in building a Weather forcast app, applying all of the concepts we have just learned.
 
 ## How to approach this lab:
 
